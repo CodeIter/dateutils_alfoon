@@ -7,4 +7,15 @@
 /doc
 /lib
 /m4
-Makefile.in
+Makefile*
+
+*.o
+*.log
+
+config.status
+include/config.h
+include/stamp-h1
+src/.deps
+src/dateadd
+src/datediff
+
